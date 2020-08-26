@@ -1,11 +1,6 @@
 ### Hi there,I'm Riya Rashmi 👋
 ##I'm a student, frontend developer and a UI designer
 
-<!--
-**riya-star/riya-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Competitive Programming
 - 🌱 I’m currently learning ...React.js
 - 👯 I’m looking to collaborate with other coders
@@ -14,7 +9,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[gmail][riyashrivastav9@gmail.com]
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...I love dancing and exploring the world.
--->
+
+### Connect with me:
+
+[<img align="left" alt="riya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Riya56054092)
+[<img align="left" alt="riya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/riya-rashmi-438a21117/)
+[<img align="left" alt="riya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/riya_sri9/)
+
+<br />
+
 ---
 <details>
   <summary>:zap: Github Stats</summary>
