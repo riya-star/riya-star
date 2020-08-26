@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other coders
 - 💬 Ask me about ...anything
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: ...[gmail][riyashrivastav9@gmail.com]
+- 📫 How to reach me: ...[gmail](riyashrivastav9@gmail.com)
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...I love dancing and exploring the world.
 
