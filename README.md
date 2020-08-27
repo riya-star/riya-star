@@ -18,6 +18,17 @@
 
 <br />
 
+### My accounts :
+-[Leetcode](https://leetcode.com/riya_sri9/) 
+
+-[hackerrank](https://www.hackerrank.com/riyashrivastav9)
+
+-[geeksforgeeks](https://auth.geeksforgeeks.org/user/riyashrivastav9/practice/)
+
+-[codechef](https://www.codechef.com/users/riya_sri9)
+
+-[behance](https://www.behance.net/riyarashmi)
+
 ---
 <details>
   <summary>:zap: Github Stats</summary>
