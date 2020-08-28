@@ -1,5 +1,5 @@
 ### Hi there,I'm Riya Rashmi 👋
-##I'm a student, frontend developer and a UI designer
+## I'm a student, frontend developer and a UI designer
 
 - 🔭 I’m currently working on ...Competitive Programming
 - 🌱 I’m currently learning ...React.js
