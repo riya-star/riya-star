@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other coders & designers
 - 💬 Ask me about ...anything
 - 🥅 2020 Goals: To Explore More about me
-- 📫 How to reach me: ...[gmail](riyashrivastav9@gmail.com) , [linkedin](https://www.linkedin.com/in/riya-rashmi-438a21117/)
+- 📫 How to reach me: [gmail](riyashrivastav9@gmail.com) , [linkedin](https://www.linkedin.com/in/riya-rashmi-438a21117/)
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...I love dancing and exploring the world (Life is short ).
 
