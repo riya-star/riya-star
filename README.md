@@ -1,8 +1,8 @@
 ### Hi there,I'm Riya Rashmi 👋
 ## I'm a student, frontend developer and a UI designer
 
-- 🔭 I’m currently working on ...Competitive Programming
-- 🌱 I’m currently learning ...React.js
+- 🔭 I’m currently working on ...UI/UX designing
+- 🌱 I’m currently learning ...Adobe XD
 - 👯 I’m looking to collaborate with other coders & designers
 - 💬 Ask me about ...anything
 - 🥅 2020 Goals: To Explore More about me
